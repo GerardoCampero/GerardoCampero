@@ -4,13 +4,12 @@
 
 - 🔭 Actualmente estoy trabajando en [8 Bits](https://8-bits-front.vercel.app/)
 
-- 🌱 Quien soy? **Mi conexión con el mundo IT nace desde niño, en mi casa curioseando armaba y desarmaba computadoras, reinstalaba el sistema operativo y hacia configuraciones para aprovechar el hardware por completo. Es por eso y mi vocación por crear cosas  que decidí estudiar programación en la secundaria en la escuela técnica N°1 Otto Krause (y es por eso que soy músico compositor también). Ahí estudié la especialidad de técnico en computación donde tuve mis primeras experiencias programando en Pascal.
-
-Luego de la secundaría por cuestiones de la vida seguí un camino alejado de todo lo que tenga que ver con tecnología. Pero siempre estando actualizado al día. 
-
-Hasta que en el 2020 en plena pandemia entré a trabajar en la Secretaría de innovación y transformación digital en el GCBA y me volví a reencontrar con este mundo hermoso. Es por eso que decidí aprender las tecnologías vigentes y dedicarme de una vez por todas a lo que me gusta.
-
-Además son cantante y bajista de la banda Carroña Sharong con mas de 12 años de trayectoria, con dos discos de estudio grabados y presentaciones en lugares importantes como The Roxy y Niceto**
+- 🌱 Quien soy? **Mi conexión con el mundo IT nace desde niño, en mi casa curioseando armaba y desarmaba computadoras, reinstalaba el sistema operativo y hacia configuraciones para aprovechar el hardware por completo. Es por eso y mi vocación   por crear cosas  que decidí estudiar programación en la secundaria en la escuela técnica N°1 Otto Krause (y es por eso que soy músico compositor también). Ahí estudié la especialidad de técnico en computación donde tuve mis primeras     
+ experiencias programando en Pascal.
+ Luego de la secundaría por cuestiones de la vida seguí un camino alejado de todo lo que tenga que ver con tecnología. Pero siempre estando actualizado al día. 
+ Hasta que en el 2020 en plena pandemia entré a trabajar en la Secretaría de innovación y transformación digital en el GCBA y me volví a reencontrar con este mundo hermoso. Es por eso que decidí aprender las tecnologías vigentes y dedicarme de 
+ una vez por todas a lo que me gusta. 
+ Además son cantante y bajista de la banda Carroña Sharong con mas de 12 años de trayectoria, con dos discos de estudio grabados y presentaciones en lugares importantes como The Roxy y Niceto**
 
 - 💬 Que hago? **En este momento estoy enfocado en seguir capacitándome aprendiendo las tecnologías de vanguardia y poder aplicarlas en proyectos personales.**
 
